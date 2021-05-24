@@ -20,7 +20,7 @@
     $resultado = validateData($data);
 
     if(count($resultado) > 0) {
-        echo json_encode($resultado);
+        echo json_encode(new ResponseError($resultado));
         exit;
     }
 

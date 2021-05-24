@@ -1,0 +1,9 @@
+- Foi usado o XAMPP
+
+- Configurar o banco:
+	- ir na pasta projeto_newm -> api -> e executar o arquivo script_banco.sql (MYSQL).
+
+- Configurar classe Database
+	- ir na pasta projeto_newm -> api -> endpoints -> e abrir o arquivo database.php. Nesse arquivo é só mudar as configurações para o banco local (MYSQL).
+
+Observação do projeto: não foi feito o filtro pelo nome ou email e nem a apresentação de apenas 10 itens na tela.

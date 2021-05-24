@@ -7,3 +7,5 @@
 	- ir na pasta projeto_newm -> api -> endpoints -> e abrir o arquivo database.php. Nesse arquivo é só mudar as configurações para o banco local (MYSQL).
 
 Observação do projeto: não foi feito o filtro pelo nome ou email e nem a apresentação de apenas 10 itens na tela.
+
+Github do projeto: https://github.com/brunozupp/teste_estagio_newm
